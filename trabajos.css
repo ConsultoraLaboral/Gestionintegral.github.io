@@ -1,0 +1,83 @@
+header{ 
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background-image: url(Imagenes/coworking.png)
+}
+
+header ul { 
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+}
+
+header img {
+    width: 300px;
+ }
+
+ header ul li{
+    margin: 15px;
+    font-size: 20px;
+    color: purple;
+    border-color: rgb(121, 0, 0);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+     }
+
+img { 
+    width: 250px;
+}
+
+h1 {
+    font-size: 34px;
+    font-style: oblique;
+    color: rgb(86, 40, 129);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+ }
+
+ h2 { 
+    font-size: 28px;
+    color: darkslateblue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+ }
+
+ p { 
+    color: midnightblue;
+    font-size: 19px;
+  }
+
+ footer { 
+    background-color: rgb(192, 188, 188);
+ }
+
+ .main { 
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    background-color: blanchedalmond;
+    margin: 10px 0 10px 0;
+ }
+
+ .caja { 
+    width: 100%;
+    height: 100%;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+ }
+
+ footer img { 
+    width: 55px;
+ }
+
+ footer h3 { 
+   font-size: 19px;
+ }
+
+ .items { 
+   list-style: none;
+ }
+ 
+
